@@ -1,0 +1,15 @@
+{
+"securedBackupText": "SECURED BACKUP",
+"onboardingOneDescription": "Keep your files in closed safe so you can't lose them.",
+"changeAndRiseText": "CHANGE AND RISE",
+"onboardingTwoDescription": "Give others access to any file or folders you choose",
+"easyAccessText": "EASY ACCESS",
+"onboardingThreeDescription": "Reach your files anytime from any devices anywhere",
+"skipText": "Skip",
+"signUpText": "Sign up",
+"signUpAllCapsText": "SIGN UP",
+"signUpSucceededText": "Successfully signed up.",
+"invalidEmailErrorText": "Enter valid email",
+"invalidPasswordErrorText": "Password cannot be empty",
+"serverErrorText": "Something went wrong, please try again."
+}
